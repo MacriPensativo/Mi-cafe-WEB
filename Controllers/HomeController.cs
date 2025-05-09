@@ -18,7 +18,7 @@ namespace JC_PDWA2025.Controllers
             return View();
         }
 
-        public IActionResult Contacto()
+        public IActionResult Resenas()
         {
             return View();
         }
